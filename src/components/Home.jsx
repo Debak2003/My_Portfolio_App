@@ -27,7 +27,7 @@ const Home = () => {
         loop
         />
         </div>
-        <a class="btn btn-dark" href="#" role="button">Downlode CV</a>
+        <a class="btn btn-dark" href="#" role="button">Download CV</a>
         </div>
          </div>
           </div>
