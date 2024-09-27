@@ -104,6 +104,9 @@ footer {
       padding-bottom: 60px;
   }
 }
+.progress, .progress-stacked {
+  border: 2px solid black;
+}
 /*................................. contact us ...................................*/
 
 footer {
