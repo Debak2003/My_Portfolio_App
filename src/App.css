@@ -119,7 +119,7 @@ footer {
 height: 500px;
 }
 /*................................. project...................................... */
-.img-fluid.rounded-start{
+/* .img-fluid.rounded-start{
   height: 250px;
   padding: 10px;
   width: fit-content;
@@ -131,8 +131,9 @@ height: 500px;
 .card.mb-3{
   margin: 50px;
   height: 250px;
-}
+} */
 /* .................................icons........................................... */
 .icons{
   padding-left: 50px;
+  
 }

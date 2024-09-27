@@ -9,7 +9,7 @@ const Navbar = () => {
        <nav class="navbar navbar-expand-lg nav-bg-black">
   <div class="container-fluid">
     <a class="navbar-brand" href="#"><Link to={'/'} style={{textDecoration:'none',color:' #e2e2ce',fontFamily:'-moz-initial'}}><h1>MyPortfolio</h1></Link></a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style={{backgroundColor:"#e3e3cf"}}>
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
