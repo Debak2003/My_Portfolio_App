@@ -72,7 +72,7 @@ body{
   transition: 3s linear;
 }
 .d-block.mx-lg-auto.img-fluid:hover{
-  transform: scale(0.5);
+  transform: scale(0.8);
 }
 /* .....................................about me text...................................... */
 
@@ -84,10 +84,6 @@ footer {
     background-color: #343a40;
     color: #ffffff;
     padding: 10px 0;
-}
-/*..................................... education .....................................*/
-#edu {
-  /* padding: 71px; */
 }
 /* .......................................skills ......................................*/
 .skill{
@@ -133,4 +129,11 @@ height: 500px;
 .icons{
   padding-left: 50px;
   
+}
+/*................................. projects .........................................*/
+#pro1:hover{
+   transform: scale(1.2);
+}
+#pro2:hover{
+  transform: scale(1.2);
 }

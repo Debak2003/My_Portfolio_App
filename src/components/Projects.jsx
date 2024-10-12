@@ -14,7 +14,7 @@ const Projects = () => {
                 <div className="card col-md-5" style={{padding:'20px',margin:'10px'}}>
                       <div className="row g-0">
                         <div className="col-md-4">
-                          <img src={img1} className="img-fluid" alt="..." style={{height:'fit-content',margin:'10px'}}></img>
+                          <img src={img1} className="img-fluid" id='pro1' alt="..." style={{height:'fit-content',margin:'10px'}}></img>
                         </div>
                         <div className="col-md-8">
                           <div className="card-body">
@@ -29,7 +29,7 @@ const Projects = () => {
           <div className="card col-md-5" style={{padding:'20px',margin:'10px'}} >
             <div className="row g-0">
               <div className="col-md-4">
-                <img src={movie} className="img-fluid" alt="..." style={{height:'fit-content',margin:'10px'}}></img>
+                <img src={movie} className="img-fluid" id='pro2' alt="..." style={{height:'fit-content',margin:'10px'}}></img>
               </div>
               <div className="col-md-8">
                 <div className="card-body">
