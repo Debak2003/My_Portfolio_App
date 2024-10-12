@@ -10,10 +10,13 @@ const Aboutme = () => {
     </header>
     
     <section class="bio mb-4">
-        {/* <h2 style={{fontFamily:'initial'}}>Hi, I'm Debak !</h2> */}
-        <p>Recent Information Technology Engineering graduate proficient in Python programming and full-stack web development.
-Skilled in frontend (HTML, CSS, JavaScript, Bootstrap,React). Currently pursuing a B.T and seeking new opportunities to
-leverage my development expertise.
+        <p>I am a passionate and motivated B.Tech graduate in Information
+Technology from St. Xavier's Catholic College of Engineering,
+Kanyakumari. Currently pursuing a six-months full-stack course in
+Python at Networkz Systems, Trivandrum. Strongly focused on
+frontend development, with a passion for building responsive and
+engaging web applications. Looking to leverage my technical
+skills and creativity in a dynamic development team.
 </p>
     </section>
 

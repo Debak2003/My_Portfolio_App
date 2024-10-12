@@ -60,22 +60,19 @@ body{
 /*.............................. home page text letter ..............................*/
 #letter{
   font-family: 'Times New Roman', Times, serif;
-  padding-top: 200px;
-  padding-right: 50px;
-  margin-right: 78px;
 }
 .texttype{
   font-size: x-large;
   font-family: 'Times New Roman', Times, serif;
 }
-.home-main{
+.d-block.mx-lg-auto.img-fluid{
   background-color:#e2e2ce;
   box-shadow: 1px 1px 20px #50545e;
   border-radius: 10%;
   transition: 3s linear;
 }
-.home-main:hover{
-  transform: scale(1.1);
+.d-block.mx-lg-auto.img-fluid:hover{
+  transform: scale(0.5);
 }
 /* .....................................about me text...................................... */
 
@@ -90,7 +87,7 @@ footer {
 }
 /*..................................... education .....................................*/
 #edu {
-  padding: 71px;
+  /* padding: 71px; */
 }
 /* .......................................skills ......................................*/
 .skill{

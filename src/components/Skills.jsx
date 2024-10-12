@@ -57,7 +57,7 @@ const Skills = () => {
   </div>
   </div>
 </div>
-<h1 style={{fontFamily:'initial'}}>LANGUAGES</h1>
+<h1 className='mt-4' style={{fontFamily:'initial'}}>LANGUAGES</h1>
 <hr></hr>
 {/*............................. tamil............................ */}
 <div class="row">

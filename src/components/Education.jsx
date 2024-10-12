@@ -4,8 +4,8 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 const Education = () => {
   return (
     <div>
- <div class="container" id='edu'>
-        <h1 style={{fontFamily:'initial'}}>EDUCATION</h1>
+ <div className="container" id='edu'>
+        <h1 className='mt-4' style={{fontFamily:'initial'}}>EDUCATION</h1>
       <hr></hr>
       <ul>
       <li><h2 style={{fontFamily:'initial'}}>SSLC</h2></li>
