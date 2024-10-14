@@ -13,7 +13,7 @@ const Education = () => {
       <li><h6> June 2017-March 2018</h6></li>
       <hr></hr>
       <li><h2 style={{fontFamily:'initial'}}>HSS</h2></li>
-      <li><h3 style={{fontFamily:'initial'}}>ChristuCovil LMS higher secondary school,Palliyadi, Kanyakumari</h3></li>
+      <li><h3 style={{fontFamily:'initial'}}>ChristuCovil LMS Higher Secondary School,Palliyadi, Kanyakumari</h3></li>
       <li><h6>June 2018-March 2020</h6></li>
       <hr></hr>
       <li><h2 style={{fontFamily:'initial'}}>BACHELOR OF ENGINEERING-B.Tech</h2></li>
